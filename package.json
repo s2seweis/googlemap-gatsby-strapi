@@ -31,5 +31,15 @@
     "template": "@strapi/template-blog@^2.0.0",
     "starter": "@strapi/starter-gatsby-blog"
   },
+
+
+
+  "engines": {
+    "node": "18.16.0",
+    "npm": "^9.5.1"
+  },
+
+  
   "license": "MIT"
+  
 }
