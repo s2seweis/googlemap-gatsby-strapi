@@ -11,7 +11,8 @@ module.exports = ({ env }) => ({
           params: {
             ACL: env('AWS_ACL', 'public-read'), // 'private' if you want to make the uploaded files private
             // Bucket: 'strapiuploaddemo996',
-            Bucket: 'food-blog-v001-image-bucket',
+            Bucket: 'my-camiguin-portal',
+            // Bucket: 'food-blog-v001-image-bucket',
           },
         },
       },
